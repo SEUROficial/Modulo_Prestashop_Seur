@@ -3,7 +3,8 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
-[2.5.12] - 2024-05-16
+
+## [2.5.12] - 2024-05-16
 Fixed
 Deprecated OrderPayment::getByOrderId
 
