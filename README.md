@@ -3,6 +3,15 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
+## [2.5.13] - 2024-07-08
+
+### Fixed
+
+- Order_payment when no payments
+- Url module ajax
+- Total_shipping_tax_incl value
+- COD logic in module
+
 
 ## [2.5.12] - 2024-05-16
 Fixed
