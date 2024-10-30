@@ -2,6 +2,14 @@
 Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
+## [2.5.15] - 2024-10-30
+
+### Fixed
+
+- Multiples Seur2Shop configs
+- Add extracondition to printMap
+- Fix hook header return
+
 ## [2.5.14] - 2024-09-27
 
 ### Fixed
