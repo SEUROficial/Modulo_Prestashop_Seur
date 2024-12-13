@@ -2,6 +2,19 @@
 Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
+
+## [2.5.16] - 2024-12-12
+
+### Fixed
+
+- Remove manual jQuery inclusion to prevent duplication in PrestaShop < 1.7.7
+- Overwrite TCPDF Output function
+- Save pickup address in Order and SeurOrder
+- Cache selected pudoId at localStorage
+- Relocation of pickup points
+- Refactoring method getSeurProductType
+- Improve pudo list
+
 ## [2.5.15] - 2024-10-30
 
 ### Fixed
