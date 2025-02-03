@@ -3,6 +3,17 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
+## [2.5.17] - 2025-02-03
+
+### Added
+- Add log info to UpdateShipmentStatus cron task
+- Add another class selector to initSeurCarriers (pickup)
+- Add all Seur COD manual payments if defined
+
+### Fixed 
+- Fix split error (pickup)
+- Fix seurcashondelivery module value and seur_url_basepath value
+
 ## [2.5.16] - 2024-12-12
 
 ### Fixed
