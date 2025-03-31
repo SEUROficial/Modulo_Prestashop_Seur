@@ -3,6 +3,14 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
+## [2.5.19] - 2025-03-31
+
+### Fixed
+- Refactor Seur GMap
+- Improve update shipment data
+- Add attemps to update shipments status
+
+
 ## [2.5.18] - 2025-02-27
 
 ### Added
