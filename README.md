@@ -3,6 +3,10 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
+## [2.5.20] - 2025-05-05
+### Fixed
+- Undefined google variable and delivery address previous check
+
 ## [2.5.19] - 2025-03-31
 
 ### Fixed
