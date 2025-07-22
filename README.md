@@ -3,6 +3,12 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
 
+## [2.5.21] - 2025-07-22
+### Fixed
+- Installation error (Attempted to call an undefined method named "getIdByName")
+- Pick-up points map not loaded for certain themes and one page checkout modules
+
+
 ## [2.5.20] - 2025-05-05
 ### Fixed
 - Undefined google variable and delivery address previous check
