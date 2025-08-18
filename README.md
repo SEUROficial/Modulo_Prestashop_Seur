@@ -4,7 +4,7 @@ Repositorio público del módulo oficial de SEUR para Prestashop
 Changelog:
 
 
-## [2.5.22] - 2025-089-18
+## [2.5.22] - 2025-08-18
 
 ### Added
 - Add service S24
