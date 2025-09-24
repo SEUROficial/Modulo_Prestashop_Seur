@@ -2,7 +2,19 @@
 Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
+## [2.5.23] - 2025-09-23
+### Added
+- Get new token only when expirated
+- Add carrier extra content
+- Add previous checkout submit validation for shipping method
 
+## Changed
+- Update shipments refactor
+- Remove unused getExpedition calls
+
+## Fixed
+- Fix label comments special chars
+- Fix COD display price at pdf 
 
 ## [2.5.22] - 2025-08-18
 
