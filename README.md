@@ -2,6 +2,15 @@
 Repositorio público del módulo oficial de SEUR para Prestashop
 
 Changelog:
+
+## [2.5.25] - 2025-11-17
+### Added
+- Massive assign carrier to orders without carrier
+- Automatic update shipments (SEUR cron)
+- Add SEUR Returns site link
+- Pick-up locations search
+- Add PudoId input at edit order
+  
 ## [2.5.24] - 2025-10-22
 ### Added
 - PS9 compatibility
